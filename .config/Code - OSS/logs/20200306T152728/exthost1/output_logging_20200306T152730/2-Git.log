@@ -1,0 +1,17 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/jowie/.config/awesome
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :rc.lua
+> git ls-files --stage -- /home/jowie/.config/awesome/rc.lua
+> git cat-file -s 29c6138a232a4b8627a50c3de7c10e7fca4790eb
+> git check-ignore -v -z --stdin

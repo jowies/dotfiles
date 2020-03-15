@@ -1,0 +1,49 @@
+[Info  - 3:28:25 PM] ESLint server stopped.
+node[4130]: pthread_create: Invalid argument
+[Info  - 3:28:26 PM] ESLint server running in node v12.4.0
+[Info  - 3:28:26 PM] ESLint server is running.
+node[4179]: pthread_create: Invalid argument
+[Info  - 3:28:26 PM] ESLint library loaded from: /home/jowie/Projects/diary/diary/node_modules/eslint/lib/api.js
+node[6735]: pthread_create: Invalid argument
+node[6755]: pthread_create: Invalid argument
+node[7314]: pthread_create: Invalid argument
+node[7388]: pthread_create: Invalid argument
+node[7476]: pthread_create: Invalid argument
+node[7745]: pthread_create: Invalid argument
+node[7852]: pthread_create: Invalid argument
+node[10053]: pthread_create: Invalid argument
+node[13168]: pthread_create: Invalid argument
+node[13264]: pthread_create: Invalid argument
+node[13265]: pthread_create: Invalid argument
+node[13266]: pthread_create: Invalid argument
+node[13267]: pthread_create: Invalid argument
+node[13274]: pthread_create: Invalid argument
+node[13287]: pthread_create: Invalid argument
+node[13295]: pthread_create: Invalid argument
+node[13294]: pthread_create: Invalid argument
+node[13355]: pthread_create: Invalid argument
+node[13354]: pthread_create: Invalid argument
+node[13356]: pthread_create: Invalid argument
+node[13357]: pthread_create: Invalid argument
+node[13370]: pthread_create: Invalid argument
+node[13377]: pthread_create: Invalid argument
+node[13384]: pthread_create: Invalid argument
+node[13385]: pthread_create: Invalid argument
+node[13783]: pthread_create: Invalid argument
+node[13784]: pthread_create: Invalid argument
+node[13785]: pthread_create: Invalid argument
+node[13792]: pthread_create: Invalid argument
+node[13799]: pthread_create: Invalid argument
+node[13806]: pthread_create: Invalid argument
+node[13813]: pthread_create: Invalid argument
+node[13832]: pthread_create: Invalid argument
+`parseForESLint` from parser `@typescript-eslint/parser` is invalid and will just be ignored
+node[13897]: pthread_create: Invalid argument
+node[13898]: pthread_create: Invalid argument
+node[13899]: pthread_create: Invalid argument
+node[13906]: pthread_create: Invalid argument
+node[13919]: pthread_create: Invalid argument
+node[13920]: pthread_create: Invalid argument
+node[13927]: pthread_create: Invalid argument
+node[13946]: pthread_create: Invalid argument
+node[13965]: pthread_create: Invalid argument

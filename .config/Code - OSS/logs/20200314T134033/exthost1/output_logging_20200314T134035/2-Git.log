@@ -1,0 +1,150 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/jowie/Projects/diary
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :diary/src/components/LastSevenDays.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/components/LastSevenDays.tsx
+> git cat-file -s 55bd6543374d38866a09d8dfac759e05a0a65e43
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :diary/src/views/daily-overview/component.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx
+> git cat-file -s d9b9441539e99c39c5ec74940bbb6bbcdf22363e
+> git check-ignore -v -z --stdin
+> git show :diary/src/components/LastSevenDays.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/components/LastSevenDays.tsx
+> git cat-file -s 55bd6543374d38866a09d8dfac759e05a0a65e43
+> git show :diary/src/views/daily-overview/component.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx
+> git cat-file -s d9b9441539e99c39c5ec74940bbb6bbcdf22363e
+> git show :diary/src/components/LastSevenDays.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/components/LastSevenDays.tsx
+> git cat-file -s 55bd6543374d38866a09d8dfac759e05a0a65e43
+> git show :diary/src/views/daily-overview/component.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx
+> git cat-file -s d9b9441539e99c39c5ec74940bbb6bbcdf22363e
+> git show :diary/src/components/LastSevenDays.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/components/LastSevenDays.tsx
+> git cat-file -s 55bd6543374d38866a09d8dfac759e05a0a65e43
+> git show :diary/src/views/daily-overview/component.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx
+> git cat-file -s d9b9441539e99c39c5ec74940bbb6bbcdf22363e
+> git show :diary/src/components/LastSevenDays.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/components/LastSevenDays.tsx
+> git cat-file -s 55bd6543374d38866a09d8dfac759e05a0a65e43
+> git show :diary/src/views/daily-overview/component.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx
+> git cat-file -s d9b9441539e99c39c5ec74940bbb6bbcdf22363e
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git show :diary/src/utils/date.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/utils/date.ts
+> git cat-file -s 3cf91f976e70598cd3f79efa2ad506b34a36e06c
+> git show :diary/src/utils/headache.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/utils/headache.ts
+> git cat-file -s a5d6d1fb2aadfc78d51c7c9d54dcb67d8c76c123
+> git show :diary/src/views/daily-overview/component.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx
+> git cat-file -s d9b9441539e99c39c5ec74940bbb6bbcdf22363e
+> git show :diary/src/components/LastSevenDays.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/components/LastSevenDays.tsx
+> git cat-file -s 55bd6543374d38866a09d8dfac759e05a0a65e43
+> git show :diary/src/views/daily-overview/component.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx
+> git cat-file -s d9b9441539e99c39c5ec74940bbb6bbcdf22363e
+> git show :diary/src/utils/date.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/utils/date.ts
+> git cat-file -s 3cf91f976e70598cd3f79efa2ad506b34a36e06c
+> git show :diary/src/utils/headache.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/utils/headache.ts
+> git cat-file -s a5d6d1fb2aadfc78d51c7c9d54dcb67d8c76c123
+> git show :diary/src/utils/date.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/utils/date.ts
+> git cat-file -s 3cf91f976e70598cd3f79efa2ad506b34a36e06c
+> git show :diary/src/components/LastSevenDays.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/components/LastSevenDays.tsx
+> git cat-file -s 55bd6543374d38866a09d8dfac759e05a0a65e43
+> git show :diary/src/views/daily-overview/component.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx
+> git cat-file -s d9b9441539e99c39c5ec74940bbb6bbcdf22363e
+> git show :diary/src/state/diary/date/types.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/state/diary/date/types.ts
+> git cat-file -s ba83dfd2a116fb9682bfb1d804970df8151e45a6
+> git check-ignore -v -z --stdin
+> git show :diary/src/utils/date.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/utils/date.ts
+> git cat-file -s 3cf91f976e70598cd3f79efa2ad506b34a36e06c
+> git show :diary/src/views/daily-overview/container.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/container.tsx
+> git cat-file -s b92126f3b448bca8031c4461376a75b1eca2097a
+> git show :diary/src/state/diary/date/selectors.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/state/diary/date/selectors.ts
+> git cat-file -s 1eec4b356919c7ab4ba4e5982b068e9b346334bf
+> git check-ignore -v -z --stdin
+> git show :diary/src/components/LastSevenDays.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/components/LastSevenDays.tsx
+> git cat-file -s 55bd6543374d38866a09d8dfac759e05a0a65e43
+> git show :diary/src/views/daily-overview/component.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx
+> git cat-file -s d9b9441539e99c39c5ec74940bbb6bbcdf22363e
+> git show :diary/src/components/LastSevenDays.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/components/LastSevenDays.tsx
+> git cat-file -s 55bd6543374d38866a09d8dfac759e05a0a65e43
+> git show :diary/src/views/daily-overview/component.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx
+> git cat-file -s d9b9441539e99c39c5ec74940bbb6bbcdf22363e
+> git show :diary/src/utils/headache.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/utils/headache.ts
+> git cat-file -s a5d6d1fb2aadfc78d51c7c9d54dcb67d8c76c123
+> git show :diary/src/views/daily-overview/component.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx
+> git cat-file -s d9b9441539e99c39c5ec74940bbb6bbcdf22363e
+> git show :diary/src/components/LastSevenDays.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/components/LastSevenDays.tsx
+> git cat-file -s 55bd6543374d38866a09d8dfac759e05a0a65e43
+> git show :diary/src/views/daily-overview/component.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx
+> git cat-file -s d9b9441539e99c39c5ec74940bbb6bbcdf22363e
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx
+> git rev-parse feature/date-info-daily-overview
+> git cat-file -s 08809997afecd047e59edad90af4f2ce0d6059e4
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :diary/src/views/daily-overview/component.tsx
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template

@@ -1,0 +1,152 @@
+[Info  - 11:46:18 AM] ESLint server stopped.
+node[2971]: pthread_create: Invalid argument
+[Info  - 11:46:18 AM] ESLint server running in node v12.4.0
+[Info  - 11:46:18 AM] ESLint server is running.
+node[3015]: pthread_create: Invalid argument
+[Info  - 11:46:19 AM] ESLint library loaded from: /home/jowie/Projects/diary/diary/node_modules/eslint/lib/api.js
+node[3088]: pthread_create: Invalid argument
+node[7072]: pthread_create: Invalid argument
+node[7073]: pthread_create: Invalid argument
+node[9933]: pthread_create: Invalid argument
+node[9954]: pthread_create: Invalid argument
+node[10008]: pthread_create: Invalid argument
+node[10286]: pthread_create: Invalid argument
+node[10327]: pthread_create: Invalid argument
+node[10350]: pthread_create: Invalid argument
+node[10368]: pthread_create: Invalid argument
+node[10396]: pthread_create: Invalid argument
+node[10407]: pthread_create: Invalid argument
+node[10424]: pthread_create: Invalid argument
+node[10434]: pthread_create: Invalid argument
+node[10455]: pthread_create: Invalid argument
+node[10465]: pthread_create: Invalid argument
+node[10476]: pthread_create: Invalid argument
+node[10488]: pthread_create: Invalid argument
+node[10519]: pthread_create: Invalid argument
+node[10948]: pthread_create: Invalid argument
+node[10983]: pthread_create: Invalid argument
+node[11185]: pthread_create: Invalid argument
+node[11204]: pthread_create: Invalid argument
+node[11312]: pthread_create: Invalid argument
+node[11335]: pthread_create: Invalid argument
+node[11343]: pthread_create: Invalid argument
+node[11384]: pthread_create: Invalid argument
+node[11396]: pthread_create: Invalid argument
+node[11413]: pthread_create: Invalid argument
+node[11425]: pthread_create: Invalid argument
+node[11991]: pthread_create: Invalid argument
+node[12481]: pthread_create: Invalid argument
+node[13159]: pthread_create: Invalid argument
+node[13230]: pthread_create: Invalid argument
+node[13298]: pthread_create: Invalid argument
+node[13308]: pthread_create: Invalid argument
+node[14672]: pthread_create: Invalid argument
+node[14840]: pthread_create: Invalid argument
+node[15207]: pthread_create: Invalid argument
+node[16166]: pthread_create: Invalid argument
+node[18241]: pthread_create: Invalid argument
+node[18318]: pthread_create: Invalid argument
+node[18340]: pthread_create: Invalid argument
+node[18351]: pthread_create: Invalid argument
+node[18371]: pthread_create: Invalid argument
+node[18395]: pthread_create: Invalid argument
+node[18423]: pthread_create: Invalid argument
+node[18443]: pthread_create: Invalid argument
+node[18471]: pthread_create: Invalid argument
+node[18561]: pthread_create: Invalid argument
+node[19373]: pthread_create: Invalid argument
+node[21769]: pthread_create: Invalid argument
+node[22461]: pthread_create: Invalid argument
+node[22462]: pthread_create: Invalid argument
+node[22463]: pthread_create: Invalid argument
+node[22464]: pthread_create: Invalid argument
+node[22471]: pthread_create: Invalid argument
+node[22485]: pthread_create: Invalid argument
+node[22478]: pthread_create: Invalid argument
+node[22492]: pthread_create: Invalid argument
+node[22493]: pthread_create: Invalid argument
+node[22500]: pthread_create: Invalid argument
+node[22580]: pthread_create: Invalid argument
+node[22581]: pthread_create: Invalid argument
+node[22582]: pthread_create: Invalid argument
+node[22583]: pthread_create: Invalid argument
+node[22590]: pthread_create: Invalid argument
+node[22597]: pthread_create: Invalid argument
+node[22605]: pthread_create: Invalid argument
+node[22604]: pthread_create: Invalid argument
+node[22618]: pthread_create: Invalid argument
+node[22619]: pthread_create: Invalid argument
+node[24454]: pthread_create: Invalid argument
+node[24455]: pthread_create: Invalid argument
+node[24456]: pthread_create: Invalid argument
+node[24463]: pthread_create: Invalid argument
+node[24470]: pthread_create: Invalid argument
+node[24477]: pthread_create: Invalid argument
+node[24478]: pthread_create: Invalid argument
+node[24491]: pthread_create: Invalid argument
+node[24495]: pthread_create: Invalid argument
+node[24499]: pthread_create: Invalid argument
+node[24610]: pthread_create: Invalid argument
+node[24611]: pthread_create: Invalid argument
+node[24612]: pthread_create: Invalid argument
+node[24613]: pthread_create: Invalid argument
+node[24633]: pthread_create: Invalid argument
+node[24622]: pthread_create: Invalid argument
+node[24634]: pthread_create: Invalid argument
+node[24641]: pthread_create: Invalid argument
+node[24654]: pthread_create: Invalid argument
+node[24673]: pthread_create: Invalid argument
+node[24858]: pthread_create: Invalid argument
+node[24860]: pthread_create: Invalid argument
+node[24859]: pthread_create: Invalid argument
+node[24867]: pthread_create: Invalid argument
+node[24868]: pthread_create: Invalid argument
+node[24869]: pthread_create: Invalid argument
+node[24882]: pthread_create: Invalid argument
+node[24895]: pthread_create: Invalid argument
+node[24903]: pthread_create: Invalid argument
+node[24896]: pthread_create: Invalid argument
+[Info  - 7:02:01 PM] JSON Error in /home/jowie/Projects/diary/diary/package.json: Unexpected token < in JSON at position 681 while parsing near '.../hoek": ">= 9.0.3",<<<<<<< HEAD    "ki...' Occurred while linting /home/jowie/Projects/diary/diary/src/views/home/component.tsx:1
+node[24982]: pthread_create: Invalid argument
+node[24983]: pthread_create: Invalid argument
+node[24984]: pthread_create: Invalid argument
+node[24985]: pthread_create: Invalid argument
+node[24999]: pthread_create: Invalid argument
+node[24992]: pthread_create: Invalid argument
+node[25012]: pthread_create: Invalid argument
+node[25013]: pthread_create: Invalid argument
+node[25026]: pthread_create: Invalid argument
+[Info  - 7:02:01 PM] JSON Error in /home/jowie/Projects/diary/diary/package.json: Unexpected token < in JSON at position 681 while parsing near '.../hoek": ">= 9.0.3",<<<<<<< HEAD    "ki...' Occurred while linting /home/jowie/Projects/diary/diary/src/views/home/component.tsx:1
+node[25045]: pthread_create: Invalid argument
+[Info  - 7:02:01 PM] JSON Error in /home/jowie/Projects/diary/diary/package.json: Unexpected token < in JSON at position 681 while parsing near '.../hoek": ">= 9.0.3",<<<<<<< HEAD    "ki...' Occurred while linting /home/jowie/Projects/diary/diary/src/components/CalendarCard.tsx:1
+[Info  - 7:02:01 PM] JSON Error in /home/jowie/Projects/diary/diary/package.json: Unexpected token < in JSON at position 681 while parsing near '.../hoek": ">= 9.0.3",<<<<<<< HEAD    "ki...' Occurred while linting /home/jowie/Projects/diary/diary/src/components/LastSevenDays.tsx:1
+[Info  - 7:02:01 PM] JSON Error in /home/jowie/Projects/diary/diary/package.json: Unexpected token < in JSON at position 681 while parsing near '.../hoek": ">= 9.0.3",<<<<<<< HEAD    "ki...' Occurred while linting /home/jowie/Projects/diary/diary/src/utils/medication.ts:1
+[Info  - 7:02:01 PM] JSON Error in /home/jowie/Projects/diary/diary/package.json: Unexpected token < in JSON at position 681 while parsing near '.../hoek": ">= 9.0.3",<<<<<<< HEAD    "ki...' Occurred while linting /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx:1
+[Info  - 7:02:01 PM] JSON Error in /home/jowie/Projects/diary/diary/package.json: Unexpected token < in JSON at position 681 while parsing near '.../hoek": ">= 9.0.3",<<<<<<< HEAD    "ki...' Occurred while linting /home/jowie/Projects/diary/diary/src/views/daily-overview/styles.ts:1
+node[25052]: pthread_create: Invalid argument
+node[25053]: pthread_create: Invalid argument
+node[25054]: pthread_create: Invalid argument
+node[25055]: pthread_create: Invalid argument
+node[25068]: pthread_create: Invalid argument
+node[25069]: pthread_create: Invalid argument
+node[25076]: pthread_create: Invalid argument
+node[25089]: pthread_create: Invalid argument
+node[25096]: pthread_create: Invalid argument
+[Info  - 7:02:02 PM] JSON Error in /home/jowie/Projects/diary/diary/package.json: Unexpected token < in JSON at position 681 while parsing near '.../hoek": ">= 9.0.3",<<<<<<< HEAD    "ki...' Occurred while linting /home/jowie/Projects/diary/diary/src/views/home/component.tsx:1
+node[25115]: pthread_create: Invalid argument
+[Info  - 7:02:02 PM] JSON Error in /home/jowie/Projects/diary/diary/package.json: Unexpected token < in JSON at position 681 while parsing near '.../hoek": ">= 9.0.3",<<<<<<< HEAD    "ki...' Occurred while linting /home/jowie/Projects/diary/diary/src/components/CalendarCard.tsx:1
+[Info  - 7:02:02 PM] JSON Error in /home/jowie/Projects/diary/diary/package.json: Unexpected token < in JSON at position 681 while parsing near '.../hoek": ">= 9.0.3",<<<<<<< HEAD    "ki...' Occurred while linting /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx:1
+[Info  - 7:02:02 PM] JSON Error in /home/jowie/Projects/diary/diary/package.json: Unexpected token < in JSON at position 681 while parsing near '.../hoek": ">= 9.0.3",<<<<<<< HEAD    "ki...' Occurred while linting /home/jowie/Projects/diary/diary/src/utils/medication.ts:1
+[Info  - 7:02:02 PM] JSON Error in /home/jowie/Projects/diary/diary/package.json: Unexpected token < in JSON at position 681 while parsing near '.../hoek": ">= 9.0.3",<<<<<<< HEAD    "ki...' Occurred while linting /home/jowie/Projects/diary/diary/src/components/LastSevenDays.tsx:1
+[Info  - 7:02:02 PM] JSON Error in /home/jowie/Projects/diary/diary/package.json: Unexpected token < in JSON at position 681 while parsing near '.../hoek": ">= 9.0.3",<<<<<<< HEAD    "ki...' Occurred while linting /home/jowie/Projects/diary/diary/src/views/daily-overview/styles.ts:1
+node[25162]: pthread_create: Invalid argument
+node[25163]: pthread_create: Invalid argument
+node[25164]: pthread_create: Invalid argument
+node[25171]: pthread_create: Invalid argument
+node[25175]: pthread_create: Invalid argument
+node[25179]: pthread_create: Invalid argument
+node[25186]: pthread_create: Invalid argument
+node[25201]: pthread_create: Invalid argument
+node[25217]: pthread_create: Invalid argument
+node[25267]: pthread_create: Invalid argument
+[Info  - 7:09:44 PM] ESLint server stopped.

@@ -1,0 +1,4 @@
+[2020-03-14 13:40:37.046] [sharedprocess] [info] main {"machineId":"fbe23b03ab737a9ecf6d52423c7714355b2eacfd8c200fce454329156937326c","windowId":2}
+[2020-03-14 13:40:37.063] [sharedprocess] [error] [File Watcher (node.js)] Failed to watch /home/jowie/.config/Code - OSS/User for changes using fs.watch() (Error: ENOSPC: System limit for number of file watchers reached, watch '/home/jowie/.config/Code - OSS/User')
+[2020-03-14 13:40:37.063] [sharedprocess] [error] [File Watcher (node.js)] Failed to watch /home/jowie/.vscode-oss for changes using fs.watch() (Error: ENOSPC: System limit for number of file watchers reached, watch '/home/jowie/.vscode-oss')
+[2020-03-14 13:41:17.059] [sharedprocess] [info] Starting to clean up unused language packs.

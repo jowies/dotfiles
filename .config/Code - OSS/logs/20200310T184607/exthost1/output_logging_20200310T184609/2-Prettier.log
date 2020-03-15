@@ -1,0 +1,33 @@
+["INFO" - 6:46:09 PM] Extension Name: "prettier-vscode".
+["INFO" - 6:46:09 PM] Extension Version: "3.20.0".
+["INFO" - 6:46:09 PM] Loaded module 'prettier@1.19.1' from '/home/jowie/Projects/diary/diary/node_modules/prettier/index.js'
+["INFO" - 6:46:09 PM] Enabling prettier for languages
+[
+  "css",
+  "graphql",
+  "html",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "json5",
+  "jsonc",
+  "less",
+  "markdown",
+  "mdx",
+  "mongo",
+  "postcss",
+  "scss",
+  "typescript",
+  "typescriptreact",
+  "vue",
+  "yaml"
+]
+["INFO" - 6:46:09 PM] Enabling prettier for range supported languages
+[
+  "graphql",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "typescript",
+  "typescriptreact"
+]

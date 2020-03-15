@@ -1,0 +1,17 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/jowie/Projects/diary
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :diary/src/views/daily-overview/container.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/container.tsx
+> git cat-file -s 3f502a621773984f5a6d4b33304b6a6a56fea300
+> git check-ignore -v -z --stdin

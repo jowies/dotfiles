@@ -1,0 +1,11 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/jowie
+> git status -z -u
+> git show :.config/awesome/rc.lua
+> git ls-files --stage -- /home/jowie/.config/awesome/rc.lua
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin

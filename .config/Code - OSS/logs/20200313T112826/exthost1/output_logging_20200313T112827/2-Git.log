@@ -1,0 +1,1921 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/jowie/Projects/diary
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :diary/package.json
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/package.json
+> git cat-file -s 1cc4afba2c381112889f1ea90aca64b86df729cb
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/package.json
+> git symbolic-ref --short HEAD
+> git cat-file -s 1cc4afba2c381112889f1ea90aca64b86df729cb
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+> git show :diary/package.json
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :diary/src/views/home/component.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/home/component.tsx
+> git cat-file -s c3f35bf2eb325dd75332d95e9a491572017885b8
+> git show :diary/src/components/CalendarCard.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/components/CalendarCard.tsx
+> git cat-file -s a9c8d6582ae6ccaa3a1e634b8a9822cca8a4b2a3
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :diary/src/utils/date.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/utils/date.ts
+> git cat-file -s 807d2692019fa3be537191ab144dfaed3d759ab9
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git show :diary/src/components/CalendarCard.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/components/CalendarCard.tsx
+> git cat-file -s a9c8d6582ae6ccaa3a1e634b8a9822cca8a4b2a3
+> git show :diary/src/state/diary/headaches/types.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/state/diary/headaches/types.ts
+> git cat-file -s 8ae262c6465b591905e166b8df0c504b7acf95ba
+> git check-ignore -v -z --stdin
+> git show :diary/src/components/CalendarCard.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/components/CalendarCard.tsx
+> git cat-file -s a9c8d6582ae6ccaa3a1e634b8a9822cca8a4b2a3
+> git show :diary/src/utils/date.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/utils/date.ts
+> git cat-file -s 807d2692019fa3be537191ab144dfaed3d759ab9
+> git show :diary/src/components/CalendarCard.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/components/CalendarCard.tsx
+> git cat-file -s a9c8d6582ae6ccaa3a1e634b8a9822cca8a4b2a3
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/components/CalendarCard.tsx
+> git symbolic-ref --short HEAD
+> git cat-file -s 93668330abb6336fead104acc814f0ea364ec7db
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+> git show :diary/src/components/CalendarCard.tsx
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/components/CalendarCard.tsx
+> git symbolic-ref --short HEAD
+> git cat-file -s 3776462a7cd3fa83b9cb1040f73247e02c60a95c
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+> git show :diary/src/components/CalendarCard.tsx
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/calendar-medicine-indicator
+> git rev-parse --symbolic-full-name feature/calendar-medicine-indicator@{u}
+fatal: no upstream configured for branch 'feature/calendar-medicine-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/components/CalendarCard.tsx
+> git symbolic-ref --short HEAD
+> git cat-file -s 346c0699bc2a697a77f071adafcf8d6580c496a1
+> git rev-parse dev
+> git rev-parse --symbolic-full-name dev@{u}
+> git show :diary/src/components/CalendarCard.tsx
+> git rev-list --left-right dev...refs/remotes/origin/dev
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse dev
+> git rev-parse --symbolic-full-name dev@{u}
+> git rev-list --left-right dev...refs/remotes/origin/dev
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/components/CalendarCard.tsx
+> git symbolic-ref --short HEAD
+> git cat-file -s 346c0699bc2a697a77f071adafcf8d6580c496a1
+> git rev-parse feature/date-info-daily-overview
+> git show :diary/src/components/CalendarCard.tsx
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :diary/src/views/daily-overview/component.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx
+> git cat-file -s f12056dfe262eed1d492733f1884c0627114c929
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :diary/src/views/daily-overview/styles.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/styles.ts
+> git cat-file -s 172ae9310db450e442f71270bcdc27ad5aef2ce5
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :diary/src/views/daily-overview/component.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx
+> git cat-file -s f12056dfe262eed1d492733f1884c0627114c929
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :diary/src/views/daily-overview/index.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/index.ts
+> git cat-file -s 79a56024b769d362979c501b2af66c56d15f3366
+> git show :diary/src/views/daily-overview/styles.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/styles.ts
+> git cat-file -s 172ae9310db450e442f71270bcdc27ad5aef2ce5
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :diary/src/views/daily-overview/component.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx
+> git cat-file -s f12056dfe262eed1d492733f1884c0627114c929
+> git show :diary/src/views/daily-overview/styles.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/styles.ts
+> git cat-file -s 172ae9310db450e442f71270bcdc27ad5aef2ce5
+> git show :diary/src/views/daily-overview/component.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx
+> git cat-file -s f12056dfe262eed1d492733f1884c0627114c929
+> git show :diary/src/views/daily-overview/styles.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/styles.ts
+> git cat-file -s 172ae9310db450e442f71270bcdc27ad5aef2ce5
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :diary/src/views/daily-overview/component.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx
+> git cat-file -s f12056dfe262eed1d492733f1884c0627114c929
+> git show :diary/src/views/daily-overview/styles.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/styles.ts
+> git cat-file -s 172ae9310db450e442f71270bcdc27ad5aef2ce5
+> git show :diary/src/views/daily-overview/component.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx
+> git cat-file -s f12056dfe262eed1d492733f1884c0627114c929
+> git show :diary/src/views/daily-overview/styles.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/styles.ts
+> git cat-file -s 172ae9310db450e442f71270bcdc27ad5aef2ce5
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :diary/src/views/daily-overview/component.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx
+> git cat-file -s f12056dfe262eed1d492733f1884c0627114c929
+> git show :diary/src/views/daily-overview/styles.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/styles.ts
+> git cat-file -s 172ae9310db450e442f71270bcdc27ad5aef2ce5
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :diary/src/views/daily-overview/component.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx
+> git cat-file -s f12056dfe262eed1d492733f1884c0627114c929
+> git show :diary/src/assets/languages/translations.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/assets/languages/translations.ts
+> git cat-file -s 4a3e492145c10c274e58dd31b7c3f3658d150443
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :diary/src/components/CalendarPicker/index.js
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/components/CalendarPicker/index.js
+> git cat-file -s c6d3b5e1f96ffb66630f472343cc53b94103f01e
+> git show :diary/src/assets/languages/translations.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/assets/languages/translations.ts
+> git cat-file -s 4a3e492145c10c274e58dd31b7c3f3658d150443
+> git show :diary/src/views/daily-overview/component.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx
+> git cat-file -s f12056dfe262eed1d492733f1884c0627114c929
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :diary/src/views/daily-overview/styles.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/styles.ts
+> git cat-file -s 172ae9310db450e442f71270bcdc27ad5aef2ce5
+> git show :diary/src/views/daily-overview/component.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx
+> git cat-file -s f12056dfe262eed1d492733f1884c0627114c929
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :diary/src/views/daily-overview/styles.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/styles.ts
+> git cat-file -s 172ae9310db450e442f71270bcdc27ad5aef2ce5
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :diary/src/views/daily-overview/component.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx
+> git cat-file -s f12056dfe262eed1d492733f1884c0627114c929
+> git show :diary/src/utils/date.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/utils/date.ts
+> git cat-file -s 807d2692019fa3be537191ab144dfaed3d759ab9
+> git show :diary/src/utils/date.test.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/utils/date.test.ts
+> git cat-file -s d8a5a20062c54d6ee02e49233fc03f18e0e7fd4f
+> git show :diary/src/utils/date.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/utils/date.ts
+> git cat-file -s 807d2692019fa3be537191ab144dfaed3d759ab9
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :diary/src/views/daily-overview/component.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx
+> git cat-file -s f12056dfe262eed1d492733f1884c0627114c929
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :diary/src/assets/languages/translations.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/assets/languages/translations.ts
+> git cat-file -s 4a3e492145c10c274e58dd31b7c3f3658d150443
+> git show :diary/src/views/daily-overview/component.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx
+> git cat-file -s f12056dfe262eed1d492733f1884c0627114c929
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :diary/src/views/daily-overview/styles.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/styles.ts
+> git cat-file -s 172ae9310db450e442f71270bcdc27ad5aef2ce5
+> git show :diary/src/views/daily-overview/component.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx
+> git cat-file -s f12056dfe262eed1d492733f1884c0627114c929
+> git show :diary/src/components/LastSevenDays.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/components/LastSevenDays.tsx
+> git cat-file -s ccb780f7d03ec4bf1b53076d35f02940dd64fc6c
+> git show :diary/src/views/daily-overview/component.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx
+> git cat-file -s f12056dfe262eed1d492733f1884c0627114c929
+> git show :diary/src/views/daily-overview/styles.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/styles.ts
+> git cat-file -s 172ae9310db450e442f71270bcdc27ad5aef2ce5
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :diary/src/views/daily-overview/component.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx
+> git cat-file -s f12056dfe262eed1d492733f1884c0627114c929
+> git show :diary/src/views/daily-overview/styles.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/styles.ts
+> git cat-file -s 172ae9310db450e442f71270bcdc27ad5aef2ce5
+> git show :diary/src/views/daily-overview/component.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx
+> git cat-file -s f12056dfe262eed1d492733f1884c0627114c929
+> git show :diary/src/views/daily-overview/styles.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/styles.ts
+> git cat-file -s 172ae9310db450e442f71270bcdc27ad5aef2ce5
+> git show :diary/src/views/daily-overview/component.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx
+> git cat-file -s f12056dfe262eed1d492733f1884c0627114c929
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :diary/src/components/LastSevenDays.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/components/LastSevenDays.tsx
+> git cat-file -s ccb780f7d03ec4bf1b53076d35f02940dd64fc6c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :diary/src/utils/date.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/utils/date.ts
+> git cat-file -s 807d2692019fa3be537191ab144dfaed3d759ab9
+> git show :diary/src/views/daily-overview/component.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx
+> git cat-file -s f12056dfe262eed1d492733f1884c0627114c929
+> git show :diary/src/components/LastSevenDays.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/components/LastSevenDays.tsx
+> git cat-file -s ccb780f7d03ec4bf1b53076d35f02940dd64fc6c
+> git show :diary/src/views/daily-overview/component.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx
+> git cat-file -s f12056dfe262eed1d492733f1884c0627114c929
+> git show :diary/src/views/daily-overview/styles.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/styles.ts
+> git cat-file -s 172ae9310db450e442f71270bcdc27ad5aef2ce5
+> git show :diary/src/views/daily-overview/component.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx
+> git cat-file -s f12056dfe262eed1d492733f1884c0627114c929
+> git show :diary/src/views/daily-overview/container.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/container.tsx
+> git cat-file -s b92126f3b448bca8031c4461376a75b1eca2097a
+> git show :diary/src/views/daily-overview/component.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx
+> git cat-file -s f12056dfe262eed1d492733f1884c0627114c929
+> git show :diary/src/components/LastSevenDays.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/components/LastSevenDays.tsx
+> git cat-file -s ccb780f7d03ec4bf1b53076d35f02940dd64fc6c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :diary/src/views/daily-overview/component.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx
+> git cat-file -s f12056dfe262eed1d492733f1884c0627114c929
+> git show :diary/src/utils/headache.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/utils/headache.ts
+> git cat-file -s a5d6d1fb2aadfc78d51c7c9d54dcb67d8c76c123
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :diary/src/views/daily-overview/styles.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/styles.ts
+> git cat-file -s 172ae9310db450e442f71270bcdc27ad5aef2ce5
+> git show :diary/src/views/daily-overview/component.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx
+> git cat-file -s f12056dfe262eed1d492733f1884c0627114c929
+> git show :diary/src/utils/headache.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/utils/headache.ts
+> git cat-file -s a5d6d1fb2aadfc78d51c7c9d54dcb67d8c76c123
+> git show :diary/src/utils/date.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/utils/date.ts
+> git cat-file -s 807d2692019fa3be537191ab144dfaed3d759ab9
+> git show :diary/src/utils/headache.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/utils/headache.ts
+> git cat-file -s a5d6d1fb2aadfc78d51c7c9d54dcb67d8c76c123
+> git show :diary/src/components/LastSevenDays.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/components/LastSevenDays.tsx
+> git cat-file -s ccb780f7d03ec4bf1b53076d35f02940dd64fc6c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :diary/src/utils/date.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/utils/date.ts
+> git cat-file -s 807d2692019fa3be537191ab144dfaed3d759ab9
+> git show :diary/src/components/LastSevenDays.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/components/LastSevenDays.tsx
+> git cat-file -s ccb780f7d03ec4bf1b53076d35f02940dd64fc6c
+> git show :diary/src/assets/languages/translations.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/assets/languages/translations.ts
+> git cat-file -s 4a3e492145c10c274e58dd31b7c3f3658d150443
+> git show :diary/src/components/LastSevenDays.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/components/LastSevenDays.tsx
+> git cat-file -s ccb780f7d03ec4bf1b53076d35f02940dd64fc6c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :diary/src/views/daily-overview/component.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx
+> git cat-file -s f12056dfe262eed1d492733f1884c0627114c929
+> git show :diary/src/views/daily-overview/styles.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/styles.ts
+> git cat-file -s 172ae9310db450e442f71270bcdc27ad5aef2ce5
+> git show :diary/src/components/LastSevenDays.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/components/LastSevenDays.tsx
+> git cat-file -s ccb780f7d03ec4bf1b53076d35f02940dd64fc6c
+> git show :diary/src/components/CalendarPicker/makeStyles.js
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/components/CalendarPicker/makeStyles.js
+> git cat-file -s 618dcc53fc3ea8a1dab7042e666370822d8c6641
+> git show :diary/src/views/daily-overview/styles.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/styles.ts
+> git cat-file -s 172ae9310db450e442f71270bcdc27ad5aef2ce5
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :diary/src/assets/languages/translations.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/assets/languages/translations.ts
+> git cat-file -s 4a3e492145c10c274e58dd31b7c3f3658d150443
+> git show :diary/src/utils/date.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/utils/date.ts
+> git cat-file -s 807d2692019fa3be537191ab144dfaed3d759ab9
+> git show :diary/src/utils/headache.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/utils/headache.ts
+> git cat-file -s a5d6d1fb2aadfc78d51c7c9d54dcb67d8c76c123
+> git show :diary/src/views/daily-overview/component.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx
+> git cat-file -s f12056dfe262eed1d492733f1884c0627114c929
+> git show :diary/src/utils/headache.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/utils/headache.ts
+> git cat-file -s a5d6d1fb2aadfc78d51c7c9d54dcb67d8c76c123
+> git show :diary/src/components/LastSevenDays.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/components/LastSevenDays.tsx
+> git cat-file -s ccb780f7d03ec4bf1b53076d35f02940dd64fc6c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git show :diary/src/utils/date.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/utils/date.ts
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+> git cat-file -s 807d2692019fa3be537191ab144dfaed3d759ab9
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :diary/src/components/LastSevenDays.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/components/LastSevenDays.tsx
+> git cat-file -s ccb780f7d03ec4bf1b53076d35f02940dd64fc6c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/components/LastSevenDays.tsx
+> git cat-file -s ccb780f7d03ec4bf1b53076d35f02940dd64fc6c
+> git show :diary/src/components/LastSevenDays.tsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :diary/src/views/daily-overview/styles.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/styles.ts
+> git cat-file -s 172ae9310db450e442f71270bcdc27ad5aef2ce5
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :diary/src/components/LastSevenDays.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/components/LastSevenDays.tsx
+> git cat-file -s ccb780f7d03ec4bf1b53076d35f02940dd64fc6c
+> git show :diary/src/views/daily-overview/component.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx
+> git cat-file -s f12056dfe262eed1d492733f1884c0627114c929
+> git show :diary/src/components/LastSevenDays.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/components/LastSevenDays.tsx
+> git cat-file -s ccb780f7d03ec4bf1b53076d35f02940dd64fc6c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/components/LastSevenDays.tsx
+> git rev-parse feature/date-info-daily-overview
+> git cat-file -s 55bd6543374d38866a09d8dfac759e05a0a65e43
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :diary/src/components/LastSevenDays.tsx
+> git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/components/LastSevenDays.tsx
+> git symbolic-ref --short HEAD
+> git cat-file -s 55bd6543374d38866a09d8dfac759e05a0a65e43
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+> git show :diary/src/components/LastSevenDays.tsx
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template

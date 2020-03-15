@@ -1,0 +1,16 @@
+[2020-03-03 23:08:29.631] [sharedprocess] [info] main {"machineId":"fbe23b03ab737a9ecf6d52423c7714355b2eacfd8c200fce454329156937326c","windowId":2}
+[2020-03-03 23:08:29.645] [sharedprocess] [error] [File Watcher (node.js)] Failed to watch /home/jowie/.config/Code - OSS/User for changes using fs.watch() (Error: ENOSPC: System limit for number of file watchers reached, watch '/home/jowie/.config/Code - OSS/User')
+[2020-03-03 23:08:29.645] [sharedprocess] [error] [File Watcher (node.js)] Failed to watch /home/jowie/.vscode-oss for changes using fs.watch() (Error: ENOSPC: System limit for number of file watchers reached, watch '/home/jowie/.vscode-oss')
+[2020-03-03 23:09:09.641] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-03-03 23:09:31.318] [sharedprocess] [info] Installing extension: keyring.lua
+[2020-03-03 23:09:31.688] [sharedprocess] [info] Downloaded extension: keyring.lua /tmp/6cb2dbec-422e-4fd6-9b04-fe70f7c41442
+[2020-03-03 23:09:31.726] [sharedprocess] [info] Extracted extension to /home/jowie/.vscode-oss/extensions/.keyring.lua-0.0.9: keyring.lua
+[2020-03-03 23:09:31.726] [sharedprocess] [info] Renamed to /home/jowie/.vscode-oss/extensions/keyring.lua-0.0.9
+[2020-03-03 23:09:31.727] [sharedprocess] [info] Installation completed. keyring.lua
+[2020-03-03 23:09:31.735] [sharedprocess] [info] Extensions installed successfully: keyring.lua
+[2020-03-03 23:09:52.876] [sharedprocess] [info] Installing extension: satoren.lualint
+[2020-03-03 23:09:53.718] [sharedprocess] [info] Downloaded extension: satoren.lualint /tmp/1ba7987e-ea49-4573-bd18-24874bc4fa76
+[2020-03-03 23:09:53.867] [sharedprocess] [info] Extracted extension to /home/jowie/.vscode-oss/extensions/.satoren.lualint-0.0.5: satoren.lualint
+[2020-03-03 23:09:53.867] [sharedprocess] [info] Renamed to /home/jowie/.vscode-oss/extensions/satoren.lualint-0.0.5
+[2020-03-03 23:09:53.868] [sharedprocess] [info] Installation completed. satoren.lualint
+[2020-03-03 23:09:53.880] [sharedprocess] [info] Extensions installed successfully: satoren.lualint

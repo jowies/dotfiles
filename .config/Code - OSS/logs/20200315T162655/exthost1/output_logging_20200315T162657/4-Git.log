@@ -1,0 +1,17 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/jowie/Projects/diary
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/date-info-daily-overview
+> git rev-parse --symbolic-full-name feature/date-info-daily-overview@{u}
+fatal: no upstream configured for branch 'feature/date-info-daily-overview'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :diary/src/views/daily-overview/component.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx
+> git cat-file -s 08809997afecd047e59edad90af4f2ce0d6059e4
+> git check-ignore -v -z --stdin

@@ -1,0 +1,14 @@
+[Info  - 1:40:35 PM] ESLint server stopped.
+node[2969]: pthread_create: Invalid argument
+[Info  - 1:40:35 PM] ESLint server running in node v12.4.0
+[Info  - 1:40:35 PM] ESLint server is running.
+node[3010]: pthread_create: Invalid argument
+[Info  - 1:40:35 PM] ESLint library loaded from: /home/jowie/Projects/diary/diary/node_modules/eslint/lib/api.js
+node[7854]: pthread_create: Invalid argument
+node[8876]: pthread_create: Invalid argument
+node[8900]: pthread_create: Invalid argument
+node[8911]: pthread_create: Invalid argument
+node[9364]: pthread_create: Invalid argument
+node[9394]: pthread_create: Invalid argument
+node[9406]: pthread_create: Invalid argument
+[Info  - 10:38:15 PM] ESLint server stopped.

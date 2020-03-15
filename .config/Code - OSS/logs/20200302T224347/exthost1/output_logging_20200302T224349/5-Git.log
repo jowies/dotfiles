@@ -1,0 +1,906 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/jowie/Projects/diary
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :diary/src/utils/medication.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/utils/medication.ts
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :diary/src/state/diary/medication/types.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/state/diary/medication/types.ts
+> git cat-file -s f26d3da0e23a44d1fd293d49a0ddbb2df5546aa4
+> git show :diary/src/utils/medication.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/utils/medication.ts
+> git show :diary/src/state/diary/medication/types.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/state/diary/medication/types.ts
+> git cat-file -s f26d3da0e23a44d1fd293d49a0ddbb2df5546aa4
+> git show :diary/src/utils/headache.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/utils/headache.ts
+> git cat-file -s a5d6d1fb2aadfc78d51c7c9d54dcb67d8c76c123
+> git show :diary/src/utils/medication.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/utils/medication.ts
+> git show :diary/src/views/daily-overview/component.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx
+> git cat-file -s ead7d04434d11c676aa28b303f26127a634f1f7d
+> git show :diary/src/views/daily-overview/container.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/container.tsx
+> git cat-file -s 3f502a621773984f5a6d4b33304b6a6a56fea300
+> git check-ignore -v -z --stdin
+> git show :diary/src/components/LastSevenDays.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/components/LastSevenDays.tsx
+> git cat-file -s 37605f92dca4250fb679dde91d899c0fe2b5c4cc
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :diary/src/utils/medication.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/utils/medication.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :diary/src/views/daily-overview/component.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx
+> git cat-file -s ead7d04434d11c676aa28b303f26127a634f1f7d
+> git show :diary/src/components/LastSevenDays.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/components/LastSevenDays.tsx
+> git cat-file -s 37605f92dca4250fb679dde91d899c0fe2b5c4cc
+> git show :diary/src/utils/headache.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/utils/headache.ts
+> git cat-file -s a5d6d1fb2aadfc78d51c7c9d54dcb67d8c76c123
+> git show :diary/src/state/diary/medication/types.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/state/diary/medication/types.ts
+> git cat-file -s f26d3da0e23a44d1fd293d49a0ddbb2df5546aa4
+> git show :diary/src/utils/medication.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/utils/medication.ts
+> git show :diary/src/views/daily-overview/component.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx
+> git cat-file -s ead7d04434d11c676aa28b303f26127a634f1f7d
+> git show :diary/src/components/LastSevenDays.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/components/LastSevenDays.tsx
+> git cat-file -s 37605f92dca4250fb679dde91d899c0fe2b5c4cc
+> git show :diary/src/utils/medication.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/utils/medication.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :diary/src/views/daily-overview/component.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx
+> git cat-file -s ead7d04434d11c676aa28b303f26127a634f1f7d
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :diary/src/state/diary/medication/selectors.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/state/diary/medication/selectors.ts
+> git cat-file -s 04f35936ed7056a84bfbbedace543ac992bdbbe5
+> git check-ignore -v -z --stdin
+> git show :diary/src/utils/medication.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/utils/medication.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :diary/src/state/diary/medication/selectors.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/state/diary/medication/selectors.ts
+> git cat-file -s 04f35936ed7056a84bfbbedace543ac992bdbbe5
+> git show :diary/src/views/daily-overview/component.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx
+> git cat-file -s ead7d04434d11c676aa28b303f26127a634f1f7d
+> git show :diary/src/views/daily-overview/container.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/container.tsx
+> git cat-file -s 3f502a621773984f5a6d4b33304b6a6a56fea300
+> git show :diary/src/views/daily-overview/component.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx
+> git cat-file -s ead7d04434d11c676aa28b303f26127a634f1f7d
+> git show :diary/src/utils/medication.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/utils/medication.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :diary/src/views/daily-overview/container.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/container.tsx
+> git cat-file -s 3f502a621773984f5a6d4b33304b6a6a56fea300
+> git show :diary/src/views/daily-overview/component.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx
+> git cat-file -s ead7d04434d11c676aa28b303f26127a634f1f7d
+> git show :diary/src/views/daily-overview/container.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/container.tsx
+> git cat-file -s 3f502a621773984f5a6d4b33304b6a6a56fea300
+> git show :diary/src/utils/medication.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/utils/medication.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :diary/src/state/diary/medication/selectors.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/state/diary/medication/selectors.ts
+> git cat-file -s 04f35936ed7056a84bfbbedace543ac992bdbbe5
+> git show :diary/src/state/diary/medication/types.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/state/diary/medication/types.ts
+> git cat-file -s f26d3da0e23a44d1fd293d49a0ddbb2df5546aa4
+> git show :diary/src/views/daily-overview/component.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx
+> git cat-file -s ead7d04434d11c676aa28b303f26127a634f1f7d
+> git show :diary/src/state/diary/medication/types.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/state/diary/medication/types.ts
+> git cat-file -s f26d3da0e23a44d1fd293d49a0ddbb2df5546aa4
+> git show :diary/src/utils/medication.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/utils/medication.ts
+> git show :diary/src/state/diary/medication/types.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/state/diary/medication/types.ts
+> git cat-file -s f26d3da0e23a44d1fd293d49a0ddbb2df5546aa4
+> git show :diary/src/utils/medication.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/utils/medication.ts
+> git show :diary/src/utils/headache.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/utils/headache.ts
+> git cat-file -s a5d6d1fb2aadfc78d51c7c9d54dcb67d8c76c123
+> git show :diary/src/utils/medication.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/utils/medication.ts
+> git check-ignore -v -z --stdin
+> git show :diary/src/state/diary/medication/selectors.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/state/diary/medication/selectors.ts
+> git cat-file -s 04f35936ed7056a84bfbbedace543ac992bdbbe5
+> git show :diary/src/utils/headache.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/utils/headache.ts
+> git cat-file -s a5d6d1fb2aadfc78d51c7c9d54dcb67d8c76c123
+> git show :diary/src/utils/medication.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/utils/medication.ts
+> git show :diary/src/state/diary/medication/selectors.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/state/diary/medication/selectors.ts
+> git cat-file -s 04f35936ed7056a84bfbbedace543ac992bdbbe5
+> git show :diary/src/utils/headache.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/utils/headache.ts
+> git cat-file -s a5d6d1fb2aadfc78d51c7c9d54dcb67d8c76c123
+> git show :diary/src/state/diary/medication/types.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/state/diary/medication/types.ts
+> git cat-file -s f26d3da0e23a44d1fd293d49a0ddbb2df5546aa4
+> git show :diary/src/views/daily-overview/component.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx
+> git cat-file -s ead7d04434d11c676aa28b303f26127a634f1f7d
+> git show :diary/src/utils/medication.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/utils/medication.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :diary/src/views/daily-overview/container.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/container.tsx
+> git cat-file -s 3f502a621773984f5a6d4b33304b6a6a56fea300
+> git show :diary/src/views/daily-overview/component.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx
+> git cat-file -s ead7d04434d11c676aa28b303f26127a634f1f7d
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :diary/src/views/daily-overview/container.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/container.tsx
+> git cat-file -s 3f502a621773984f5a6d4b33304b6a6a56fea300
+> git show :diary/src/utils/medication.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/utils/medication.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :diary/src/state/diary/medication/selectors.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/state/diary/medication/selectors.ts
+> git cat-file -s 04f35936ed7056a84bfbbedace543ac992bdbbe5
+> git show :diary/src/utils/medication.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/utils/medication.ts
+> git show :diary/src/state/diary/medication/selectors.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/state/diary/medication/selectors.ts
+> git cat-file -s 04f35936ed7056a84bfbbedace543ac992bdbbe5
+> git show :diary/src/utils/medication.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/utils/medication.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :diary/src/state/diary/medication/selectors.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/state/diary/medication/selectors.ts
+> git cat-file -s 04f35936ed7056a84bfbbedace543ac992bdbbe5
+> git show :diary/src/utils/medication.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/utils/medication.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :diary/src/state/diary/medication/selectors.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/state/diary/medication/selectors.ts
+> git cat-file -s 04f35936ed7056a84bfbbedace543ac992bdbbe5
+> git show :diary/src/utils/medication.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/utils/medication.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :diary/src/views/daily-overview/component.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx
+> git cat-file -s ead7d04434d11c676aa28b303f26127a634f1f7d
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :diary/src/utils/medication.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/utils/medication.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :diary/src/views/daily-overview/component.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx
+> git cat-file -s ead7d04434d11c676aa28b303f26127a634f1f7d
+> git show :diary/src/views/daily-overview/container.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/container.tsx
+> git cat-file -s 3f502a621773984f5a6d4b33304b6a6a56fea300
+> git show :diary/src/utils/medication.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/utils/medication.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :diary/src/views/daily-overview/component.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx
+> git cat-file -s ead7d04434d11c676aa28b303f26127a634f1f7d
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :diary/src/views/daily-overview/container.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/container.tsx
+> git cat-file -s 3f502a621773984f5a6d4b33304b6a6a56fea300
+> git show :diary/src/utils/medication.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/utils/medication.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :diary/src/views/daily-overview/component.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx
+> git cat-file -s ead7d04434d11c676aa28b303f26127a634f1f7d
+> git show :diary/src/views/daily-overview/container.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/container.tsx
+> git cat-file -s 3f502a621773984f5a6d4b33304b6a6a56fea300
+> git show :diary/src/utils/medication.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/utils/medication.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :diary/src/views/daily-overview/container.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/container.tsx
+> git cat-file -s 3f502a621773984f5a6d4b33304b6a6a56fea300
+> git show :diary/src/views/daily-overview/component.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx
+> git cat-file -s ead7d04434d11c676aa28b303f26127a634f1f7d
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :diary/src/utils/medication.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/utils/medication.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :diary/src/views/daily-overview/component.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx
+> git cat-file -s ead7d04434d11c676aa28b303f26127a634f1f7d
+> git show :diary/src/views/daily-overview/container.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/container.tsx
+> git cat-file -s 3f502a621773984f5a6d4b33304b6a6a56fea300
+> git show :diary/src/views/daily-overview/component.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx
+> git cat-file -s ead7d04434d11c676aa28b303f26127a634f1f7d
+> git show :diary/src/views/daily-overview/container.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/container.tsx
+> git cat-file -s 3f502a621773984f5a6d4b33304b6a6a56fea300
+> git show :diary/src/views/daily-overview/component.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx
+> git cat-file -s ead7d04434d11c676aa28b303f26127a634f1f7d
+> git show :diary/src/utils/medication.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/utils/medication.ts
+> git show :diary/src/components/LastSevenDays.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/components/LastSevenDays.tsx
+> git cat-file -s 37605f92dca4250fb679dde91d899c0fe2b5c4cc
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :diary/src/views/daily-overview/component.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx
+> git cat-file -s ead7d04434d11c676aa28b303f26127a634f1f7d
+> git show :diary/src/views/daily-overview/container.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/container.tsx
+> git cat-file -s 3f502a621773984f5a6d4b33304b6a6a56fea300
+> git show :diary/src/views/daily-overview/component.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx
+> git cat-file -s ead7d04434d11c676aa28b303f26127a634f1f7d
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :diary/src/components/LastSevenDays.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/components/LastSevenDays.tsx
+> git cat-file -s 37605f92dca4250fb679dde91d899c0fe2b5c4cc
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :diary/src/utils/medication.ts
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/utils/medication.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :diary/src/views/daily-overview/component.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx
+> git cat-file -s ead7d04434d11c676aa28b303f26127a634f1f7d
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :diary/src/views/daily-overview/container.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/container.tsx
+> git cat-file -s 3f502a621773984f5a6d4b33304b6a6a56fea300
+> git show :diary/src/views/daily-overview/component.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx
+> git cat-file -s ead7d04434d11c676aa28b303f26127a634f1f7d
+> git status -z -u
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/component.tsx
+> git symbolic-ref --short HEAD
+> git cat-file -s 798a9bd85a86abcb9d16267dbbe6500ae364a3db
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+> git show :diary/src/views/daily-overview/component.tsx
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :diary/src/views/daily-overview/container.tsx
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/container.tsx
+> git cat-file -s 9440e62a98894477b31fb3cc24860dcaafba7064
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /home/jowie/Projects/diary/diary/src/views/daily-overview/container.tsx
+> git symbolic-ref --short HEAD
+> git cat-file -s 3f502a621773984f5a6d4b33304b6a6a56fea300
+> git rev-parse feature/last-7-days-indicator
+> git rev-parse --symbolic-full-name feature/last-7-days-indicator@{u}
+> git show :diary/src/views/daily-overview/container.tsx
+fatal: no upstream configured for branch 'feature/last-7-days-indicator'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
