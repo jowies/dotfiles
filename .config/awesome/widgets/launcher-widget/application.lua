@@ -15,12 +15,14 @@ local HOME = os.getenv("HOME")
 
 local instances
 
-local app_launcher_widget = {}
+local app = {}
 local function worker(args)
+    local app_launcher_widget = {}
     local args = args or {}
     local path_to_inactive = args.path_to_inactive or "/home/jowie/.config/awesome/firefox-symbolic3.svg"
     local path_to_active = args.path_to_active or "/usr/share/icons/Tela/scalable/apps/firefox-old.svg"
     local command = args.command or ""
+    local instance = args.instance or ""
     local icon_widget = wibox.widget {
         {
             id = "icon",
@@ -56,13 +58,14 @@ local function worker(args)
 			)
 		)
 	)
-     table.insert(app_launcher_widget,function(active) 
+    app_launcher_widget.instance = instance
+    function app_launcher_widget.change(active)
 	if active then
 		app_launcher_widget:get_children()[1].icon:set_image(path_to_active)
 	else
 		app_launcher_widget:get_children()[1].icon:set_image(path_to_inactive)
 	end
-    end)
+    end
 
     --print(launcher_widget:get_children()[1].icon:set_image("/usr/share/icons/Tela/scalable/apps/firefox-old.svg"))
 
@@ -78,4 +81,4 @@ local function worker(args)
     return wibox.container.margin(app_launcher_widget)
 end
 
-return setmetatable(app_launcher_widget, { __call = function(_, ...) return worker(...) end })
+return setmetatable(app, { __call = function(_, ...) return worker(...) end })

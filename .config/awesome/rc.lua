@@ -21,7 +21,7 @@ require("helpers")
 -- Enable hotkeys help widget for VIM and other apps
 -- when client with a matching name is opened:
 require("awful.hotkeys_popup.keys")
-
+local applications = require("applications")
 -- {{{ Error handling
 -- Check if awesome encountered an error during startup and fell back to
 -- another config (This code will only ever execute for the fallback config)
@@ -301,8 +301,9 @@ awful.screen.connect_for_each_screen(function(s)
         				s.mytasklist, -- Middle widget
         				{ -- Right widgets
             					layout = wibox.layout.fixed.horizontal,
-						launcher_widget({applications = {{ command = "firefox", path_to_icon = "/home/jowie/.config/awesome/firefox-symbolic3.svg"},
-					{ command = "firefox", path_to_icon = "/home/jowie/.config/awesome/firefox-symbolic3.svg"},	
+						launcher_widget({screen = s,applications = {
+							{instance = "Navigator", command = "firefox", path_to_icon = "/home/jowie/.config/awesome/firefox-symbolic3.svg"},
+							{instance = "kitty",  command = "firefox", path_to_icon = "/home/jowie/.config/awesome/firefox-symbolic3.svg"},	
 					}}),
             					mykeyboardlayout,
             					require("battery-widget") {},
@@ -664,6 +665,7 @@ client.connect_signal("manage", function (c)
         -- Prevent clients from being unreachable after screen count changes.
         awful.placement.no_offscreen(c)
     end
+    print(c.instance)
 end)
 
 helpers.enable_rounding()
