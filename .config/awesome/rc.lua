@@ -16,6 +16,7 @@ local dpi = xresources.apply_dpi
 local naughty = require("naughty")
 local menubar = require("menubar")
 local hotkeys_popup = require("awful.hotkeys_popup")
+local launcher_widget = require("widgets.launcher-widget")
 require("helpers")
 -- Enable hotkeys help widget for VIM and other apps
 -- when client with a matching name is opened:
@@ -162,7 +163,7 @@ local function set_wallpaper(s)
         end
         gears.wallpaper.maximized(wallpaper, s, true)
     end
-    gears.wallpaper.set("#00ff00")
+    --gears.wallpaper.set("#00ff00")
 end
 
 -- Re-set wallpaper when a screen's geometry changes (e.g. different resolution)
@@ -258,6 +259,7 @@ awful.screen.connect_for_each_screen(function(s)
 	    width = dpi (1000),
 	    stretch = true,
 	    ontop = true,
+	    color = "#ff000055"
 	    --shape = helpers.rrect(beautiful.border_radius),
     })
     --wibox.container.margin(s.mywibox, dpi(30))
@@ -268,14 +270,12 @@ awful.screen.connect_for_each_screen(function(s)
 	left = dpi(16) - skew_horizontal + (beautiful.useless_gap*2) - dpi(2),
 	right = skew_horizontal + (beautiful.useless_gap*2) - dpi(2),
 	top = 0,
-	color = "#00000000",
 	shape = helpers.rrect(beautiful.border_radius),
 	widget = wibox.container.margin,
 	{
 		widget = wibox.container.background,
 		shape = helpers.rrect(beautiful.border_radius),
 		shape_clip = true,
-		color = "#ff0000",
 		shape_border_width = dpi(4),
 		shape_border_color = beautiful.border_focus,
 		{ 
@@ -289,7 +289,6 @@ awful.screen.connect_for_each_screen(function(s)
 				widget = wibox.container.background,
 				shape = helpers.rrect(beautiful.border_radius),
 				shape_clip = false,
-				color = "#0000ff",
 
    				{
         				layout = wibox.layout.align.horizontal,
@@ -301,7 +300,10 @@ awful.screen.connect_for_each_screen(function(s)
         				},
         				s.mytasklist, -- Middle widget
         				{ -- Right widgets
-            					layout = wibox.layout.fixed.horizontal,	    
+            					layout = wibox.layout.fixed.horizontal,
+						launcher_widget({applications = {{ command = "firefox", path_to_icon = "/home/jowie/.config/awesome/firefox-symbolic3.svg"},
+					{ command = "firefox", path_to_icon = "/home/jowie/.config/awesome/firefox-symbolic3.svg"},	
+					}}),
             					mykeyboardlayout,
             					require("battery-widget") {},
 						{
